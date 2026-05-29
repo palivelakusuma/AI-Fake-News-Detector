@@ -1,10 +1,11 @@
+streamlit
 pandas
 numpy
 scikit-learn
-streamlit
 plotly
 newspaper3k
 lxml
+lxml_html_clean
 nltk
 textblob
 streamlit-option-menu
