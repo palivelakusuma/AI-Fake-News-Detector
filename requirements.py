@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+streamlit
+plotly
+newspaper3k
+lxml
+nltk
+textblob
+streamlit-option-menu
+wordcloud
+matplotlib
